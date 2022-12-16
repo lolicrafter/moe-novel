@@ -65,7 +65,8 @@ const config = {
       }
     ]
   ],
-  plugins
+  plugins,
+  // transpileDependencies: ['uview-ui']
 }
 
 const UNI_H5_TEST = '**/@dcloudio/uni-h5/dist/index.umd.min.js'
